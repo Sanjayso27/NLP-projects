@@ -1,0 +1,7 @@
+__pycache__
+data
+*.pt
+*.p
+*.net
+chr_en_data
+sanity_check_en_es_data
